@@ -1,4 +1,5 @@
 .gradle
+
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
@@ -10,3 +11,7 @@ build/
 *.iws
 *.iml
 *.ipr
+
+/gradle
+.gradlew
+.gradlew.bat

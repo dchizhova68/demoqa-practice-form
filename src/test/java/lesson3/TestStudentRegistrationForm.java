@@ -18,7 +18,7 @@ public class TestStudentRegistrationForm {
     final String YEAR_OF_BIRTH = "1990";
     final String SUBJECTS =  "Chemistry";
     final String HOBBIES = "Sports";
-    final String PICTURE = "../test.png";
+    final String PICTURE = "test.png";
     final String CURRENT_ADDRESS = "Russia";
     final String STATE = "Haryana";
     final String CITY = "Karnal";
